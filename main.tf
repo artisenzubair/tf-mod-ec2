@@ -5,7 +5,7 @@ terraform {
       version = "~> 5.0"
     }
   }
-  
+}
 
 
 resource "aws_instance" "demo" {
