@@ -1,0 +1,16 @@
+# Terraform/Terragrunt
+.terraform/
+.terragrunt-cache/
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# OS / misc
+.DS_Store
+*.zip
+*.tar.gz
+
